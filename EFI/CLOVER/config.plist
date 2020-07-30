@@ -416,11 +416,13 @@
 		<key>FrequencyMHz</key>
 		<integer>4600</integer>
 		<key>HWPEnable</key>
-		<false/>
+		<true/>
+		<key>HWPValue</key>
+		<string>0x2E2E04</string>
 		<key>TDP</key>
-		<integer>45</integer>
+		<integer>53</integer>
 		<key>UseARTFrequency</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -664,7 +666,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>Mojave</string>
+		<string>Beauty</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
