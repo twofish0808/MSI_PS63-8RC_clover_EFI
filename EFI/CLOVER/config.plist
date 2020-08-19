@@ -728,7 +728,7 @@
 		<key>FirmwareFeatures</key>
 		<string>0xFC0FE137</string>
 		<key>Board-ID</key>
-		<string>Mac-53FDB3D8DB8CA971</string>
+		<string>Mac-827FB448E656EC26</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>BoardVersion</key>
@@ -738,7 +738,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>BiosVersion</key>
-		<string>MBP154.88Z.F000.B00.2007121455</string>
+		<string>MBP152.88Z.F000.B00.2007121439</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisAssetTag</key>
@@ -750,13 +750,13 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF012501GU0000JC</string>
+		<string>C02040310GUJH4RJA</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,4</string>
+		<string>MacBookPro15,2</string>
 		<key>SmUUID</key>
-		<string>B379A549-E16C-48AE-ACF4-EB54329DD66E</string>
+		<string>35EAA078-9CFA-427A-A01B-5A9003785F96</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
@@ -764,7 +764,7 @@
 		<key>EfiVersion</key>
 		<string>1539.0.0.0.1</string>
 		<key>SerialNumber</key>
-		<string>FVFCGFZ4L40Y</string>
+		<string>C02DHZZQJHCC</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
