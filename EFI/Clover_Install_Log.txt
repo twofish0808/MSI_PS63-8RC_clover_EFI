@@ -1,5 +1,5 @@
 
-Clover EFI installer log - Mon Aug 10 14:20:12 CST 2020
+Clover EFI installer log - Thu Jul 30 17:29:33 CST 2020
 Installer version: r5120 (commit: 33816ae90) EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
@@ -23,23 +23,25 @@ Installer version: r5120 (commit: 33816ae90) EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +499.9 GB   disk2
                                  Physical Store disk0s2
-   1:                APFS Volume Macintosh HD - Data     205.3 GB   disk2s1
+   1:                APFS Volume Macintosh HD - Data     68.8 GB    disk2s1
    2:                APFS Volume Preboot                 82.1 MB    disk2s2
    3:                APFS Volume Recovery                528.8 MB   disk2s3
    4:                APFS Volume VM                      1.1 GB     disk2s4
-   5:                APFS Volume Macintosh HD            11.4 GB    disk2s5
+   5:                APFS Volume Macintosh HD            11.3 GB    disk2s5
 
 Target volume /Volumes/Macintosh HD on disk2 is APFS on physical store disk0s2
 ======================================================
 Backing up EFI files
 
-Backing up /Volumes/Macintosh HD/EFIROOTDIR/EFI folder to /Volumes/Macintosh HD/EFI-Backups/r5119/2020-08-10-14h20/EFI
+Backing up /Volumes/Macintosh HD/EFIROOTDIR/EFI folder to /Volumes/Macintosh HD/EFI-Backups/r5070/2020-07-30-17h29/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
 Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
 Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
 
+Theme 'Mojave' (defined in config.plist) not found !
+Using default theme 'Beauty'
 ======================================================
 =========== Clover EFI Installation Finish ===========
 ======================================================

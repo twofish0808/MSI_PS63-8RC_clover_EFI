@@ -369,13 +369,15 @@
 	<key>CPU</key>
 	<dict>
 		<key>UseARTFrequency</key>
-		<false/>
+		<true/>
 		<key>TDP</key>
 		<integer>53</integer>
 		<key>HWPEnable</key>
-		<false/>
+		<true/>
 		<key>FrequencyMHz</key>
-		<integer>2000</integer>
+		<integer>4600</integer>
+		<key>HWPValue</key>
+		<string>0x2E2E04</string>
 		<key>BusSpeedkHz</key>
 		<integer>105000</integer>
 	</dict>
@@ -728,7 +730,7 @@
 		<key>FirmwareFeatures</key>
 		<string>0xFC0FE137</string>
 		<key>Board-ID</key>
-		<string>Mac-827FB448E656EC26</string>
+		<string>Mac-937A206F2EE63C01</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>BoardVersion</key>
@@ -738,37 +740,37 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>BiosVersion</key>
-		<string>MBP152.88Z.F000.B00.2007121439</string>
+		<string>MBP151.88Z.F000.B00.1809280842</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisAssetTag</key>
 		<string>MacBook-Aluminum</string>
 		<key>PlatformFeature</key>
-		<string>0x32</string>
+		<string>0x1A</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02040310GUJH4RJA</string>
+		<string>C02853303J9JP4FCB</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro15,1</string>
 		<key>SmUUID</key>
-		<string>35EAA078-9CFA-427A-A01B-5A9003785F96</string>
+		<string>A9276FF0-8C06-4105-9124-75A51AF456D6</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>EfiVersion</key>
-		<string>1539.0.0.0.1</string>
+		<string>220.250.320.0.0</string>
 		<key>SerialNumber</key>
-		<string>C02DHZZQJHCC</string>
+		<string>C02XXJYPKGYG</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
-		<string>07/12/2020</string>
+		<string>09/28/2018</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
